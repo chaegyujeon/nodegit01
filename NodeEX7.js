@@ -3,4 +3,4 @@ process.argv.forEach(function(val,index,array){
 	console.log(index,val,array);
 });
 
-console.log("===>");
+console.log("===>1");
